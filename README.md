@@ -3,6 +3,7 @@
 <p>
 Ejemplos 
 </p>
+
 - MetodoBiseccion
 
 - MetodoDeLaSecante
